@@ -12,7 +12,7 @@ Data set consists of 7553 RGB images in 2 folders as with_mask and without_mask.
   <img src="figures/with_mask.png">
 </p>
 <p align="center">   
-   <em> Fig.1 Random Graph </em>
+   <em> Fig.1 Examples from 'with_mask' class data </em>
 </p>
 
 
@@ -20,5 +20,21 @@ Data set consists of 7553 RGB images in 2 folders as with_mask and without_mask.
   <img src="figures/without_mask.png">
 </p>
 <p align="center">   
-   <em> Fig.1 Random Graph </em>
+   <em> Fig.2 Examples from 'without_mask' class data  </em>
 </p>
+
+- ** Results of trained model via CNN on a subset of test dataset ** 
+
+<p align="center">
+  <img src="figures/results.png">
+</p>
+<p align="center">   
+   <em> Fig.3 Classification Results via CNN </em>
+</p>
+
+As we can see the trained model achieved successful performance in classifying faces based on the presence or absence of a mask.  
+
+
+
+
+
