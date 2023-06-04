@@ -23,7 +23,11 @@ Data set consists of 7553 RGB images in 2 folders as with_mask and without_mask.
    <em> Fig.2 Examples from 'without_mask' class data  </em>
 </p>
 
-- ** Results of trained model via CNN on a subset of test dataset ** 
+
+
+
+
+- **Results of trained model via CNN on a subset of test dataset** 
 
 <p align="center">
   <img src="figures/results.png">
